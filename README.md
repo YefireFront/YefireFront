@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yeffer Moreno</h1>
 <h3 align="center">A lover of programing and designe</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yefirefront&label=Profile%20views&color=0e75b6&style=flat" alt="yefirefront" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yefirefront" alt="yefirefront" /></a> </p>
 
