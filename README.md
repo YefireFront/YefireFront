@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yeffer Moreno</h1>
 <h3 align="center">A lover of programing and designe</h3>
 
-
-<p align="left"> <a href="https://twitter.com/yefirefront" target="blank"><img src="https://img.shields.io/twitter/follow/yefirefront?logo=twitter&style=for-the-badge" alt="yefirefront" /></a> </p>
-
 - 🔭 I’m currently working on [365 Project in 1 year](https://github.com/YefireFront/365Project1Year-HtmlCssJavaScript)
 
 - 🌱 I’m currently learning **Angular and Node**
