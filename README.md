@@ -2,8 +2,6 @@
 <h3 align="center">A lover of programing and designe</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yefirefront" alt="yefirefront" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yefirefront" target="blank"><img src="https://img.shields.io/twitter/follow/yefirefront?logo=twitter&style=for-the-badge" alt="yefirefront" /></a> </p>
 
 - 🔭 I’m currently working on [365 Project in 1 year](https://github.com/YefireFront/365Project1Year-HtmlCssJavaScript)
